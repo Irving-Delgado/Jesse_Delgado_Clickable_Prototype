@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-background">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="background" clip-path="url(#clip-background)">
+    <rect width="1920" height="1080" fill="#fffabe"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-127.318 -37)">
+      <g id="Polygon_1" data-name="Polygon 1" transform="translate(1634.08 405)" fill="#ffba00">
+        <path d="M562.5,0,1125,690H0Z" stroke="none"/>
+        <path d="M 562.5 1.5826416015625 L 2.10546875 689 L 1122.89453125 689 L 562.5 1.5826416015625 M 562.5 -6.103515625e-05 L 1125 690 L 0 690 L 562.5 -6.103515625e-05 Z" stroke="none" fill="rgba(112,112,112,0)"/>
+      </g>
+      <g id="Path_1" data-name="Path 1" transform="matrix(-0.07, -0.998, 0.998, -0.07, 19.099, 1283.43)" fill="#ff9d00">
+        <path d="M148.61,0l6.431,89.128L297.22,2059.708H0Z" stroke="none"/>
+        <path d="M 148.609619140625 13.89697265625 L 1.074951171875 2058.7080078125 L 296.144775390625 2058.7080078125 L 154.0428619384766 89.2000732421875 L 148.609619140625 13.89697265625 M 148.609619140625 -0.000244140625 L 155.0403594970703 89.128173828125 L 297.2196044921875 2059.7080078125 L 0.0001220703125 2059.7080078125 L 148.609619140625 -0.000244140625 Z" stroke="none" fill="rgba(112,112,112,0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
